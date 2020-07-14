@@ -3,7 +3,7 @@
 Add Chaos Mesh repository to Helm repos:
 
 ```bash
-helm repo add chaos-mesh https://chaos-mesh.github.io/charts
+helm repo add chaos-mesh https://charts.chaos-mesh.org
 ```
 
 Search avaliable version: 
