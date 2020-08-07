@@ -11,6 +11,13 @@ Search avaliable version:
 ```bash
 helm search repo chaos-mesh
 ```
+## Create custom resource type
+
+To use Chaos Mesh, you must create the related custom resource type.
+
+```bash
+curl -sSL https://raw.githubusercontent.com/chaos-mesh/chaos-mesh/master/manifests/crd.yaml | kubectl apply -f - 
+```
 
 ## Install Chaos Mesh
 
