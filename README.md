@@ -6,7 +6,7 @@ Add Chaos Mesh repository to Helm repos:
 helm repo add chaos-mesh https://charts.chaos-mesh.org
 ```
 
-Search avaliable version: 
+Search available version: 
 
 ```bash
 helm search repo chaos-mesh
