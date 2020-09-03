@@ -2,8 +2,28 @@ apiVersion: v1
 entries:
   chaos-mesh:
   - apiVersion: v1
+    appVersion: v0.9.1
+    created: "2020-09-03T04:05:51.811772418Z"
+    description: Chaos Mesh® is a cloud-native Chaos Engineering platform that orchestrates
+      chaos on Kubernetes environments.
+    digest: 1c202009bd88d71c11c3136edca32108fd3335e784f3fe81d5d7a4e128834a11
+    home: https://chaos-mesh.org
+    icon: https://raw.githubusercontent.com/pingcap/chaos-mesh/master/static/logo.svg
+    keywords:
+    - chaos-engineering
+    - resiliency
+    - fault-injection
+    - kubernetes
+    - testing
+    name: chaos-mesh
+    sources:
+    - https://github.com/pingcap/chaos-mesh
+    urls:
+    - https://charts.chaos-mesh.org/chaos-mesh-v0.2.1.tgz
+    version: v0.2.1
+  - apiVersion: v1
     appVersion: v0.9.0
-    created: "2020-08-25T07:38:04.094052163Z"
+    created: "2020-09-03T04:05:51.810330209Z"
     description: Chaos Mesh® is a cloud-native Chaos Engineering platform that orchestrates
       chaos on Kubernetes environments.
     digest: cb9e837dcb74783df8c0e342ecd5c21911e7e245dfd956c5512b74c15eea7361
@@ -23,7 +43,7 @@ entries:
     version: v0.2.0
   - apiVersion: v1
     appVersion: v1.0.0
-    created: "2020-08-25T07:38:04.092652349Z"
+    created: "2020-09-03T04:05:51.808952702Z"
     description: Chaos Mesh® is a cloud-native Chaos Engineering platform that orchestrates
       chaos on Kubernetes environments.
     digest: 9a2e8afc3b9b1be21e04f0419c1648ec6fda4ab229c6cc957e17d789f2b42e66
@@ -43,7 +63,7 @@ entries:
     version: v0.1.1
   - apiVersion: v1
     appVersion: v1.0.0
-    created: "2020-08-25T07:38:04.091286235Z"
+    created: "2020-09-03T04:05:51.807585694Z"
     description: Chaos Mesh® is a cloud-native Chaos Engineering platform that orchestrates
       chaos on Kubernetes environments.
     digest: 9cf1a3b8226165aa480d6b6dc23c049d13f795f2135bd325703594a4cf97851f
@@ -61,4 +81,4 @@ entries:
     urls:
     - https://charts.chaos-mesh.org/chaos-mesh-v0.1.0.tgz
     version: v0.1.0
-generated: "2020-08-25T07:38:04.089520617Z"
+generated: "2020-09-03T04:05:51.805891784Z"
