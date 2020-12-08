@@ -30,6 +30,7 @@ helm install chaos-mesh/chaos-mesh --name=chaos-mesh --namespace=chaos-testing
 - For helm 3.X
 
 ```bash
+kubectl create ns chaos-testing
 helm install chaos-mesh chaos-mesh/chaos-mesh --namespace=chaos-testing
 ```
 
