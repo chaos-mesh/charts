@@ -2,8 +2,28 @@ apiVersion: v1
 entries:
   chaos-mesh:
   - apiVersion: v1
+    appVersion: v1.1.0
+    created: "2021-01-08T11:44:07.505720893Z"
+    description: Chaos Mesh® is a cloud-native Chaos Engineering platform that orchestrates
+      chaos on Kubernetes environments.
+    digest: c5b3a33bd2d74bfec6b05cf172b9b6f1ad6dc26cf22b71fff015533252fe3e15
+    home: https://chaos-mesh.org
+    icon: https://raw.githubusercontent.com/pingcap/chaos-mesh/master/static/logo.svg
+    keywords:
+    - chaos-engineering
+    - resiliency
+    - fault-injection
+    - kubernetes
+    - testing
+    name: chaos-mesh
+    sources:
+    - https://github.com/pingcap/chaos-mesh
+    urls:
+    - https://charts.chaos-mesh.org/chaos-mesh-v0.4.0.tgz
+    version: v0.4.0
+  - apiVersion: v1
     appVersion: v1.0.3
-    created: "2020-12-16T15:02:48.562497577Z"
+    created: "2021-01-08T11:44:07.502514653Z"
     description: Chaos Mesh® is a cloud-native Chaos Engineering platform that orchestrates
       chaos on Kubernetes environments.
     digest: 00d7face830487e97d2bdae3cf578e014f192f7d79a0904bc876dce9338b1d2f
@@ -23,7 +43,7 @@ entries:
     version: v0.3.3
   - apiVersion: v1
     appVersion: v1.0.2
-    created: "2020-12-16T15:02:48.560686663Z"
+    created: "2021-01-08T11:44:07.501180136Z"
     description: Chaos Mesh® is a cloud-native Chaos Engineering platform that orchestrates
       chaos on Kubernetes environments.
     digest: 6b3936eb01087d5d61577066db36aa5211706d9e9084b6bcbd1e14c692616cd6
@@ -43,7 +63,7 @@ entries:
     version: v0.3.2
   - apiVersion: v1
     appVersion: v1.0.1
-    created: "2020-12-16T15:02:48.559069852Z"
+    created: "2021-01-08T11:44:07.499335913Z"
     description: Chaos Mesh® is a cloud-native Chaos Engineering platform that orchestrates
       chaos on Kubernetes environments.
     digest: 6995d6ee77515a0da7574f5f916e833a98ea373ff556d1d3fb0ececa41be7f15
@@ -63,7 +83,7 @@ entries:
     version: v0.3.1
   - apiVersion: v1
     appVersion: v1.0.0
-    created: "2020-12-16T15:02:48.557311439Z"
+    created: "2021-01-08T11:44:07.498047997Z"
     description: Chaos Mesh® is a cloud-native Chaos Engineering platform that orchestrates
       chaos on Kubernetes environments.
     digest: d7d75a4ff8cc52a92f968bbb8945cfbb88cf793b07f83ae70dbe5366317d998f
@@ -83,7 +103,7 @@ entries:
     version: v0.3.0
   - apiVersion: v1
     appVersion: v0.9.1
-    created: "2020-12-16T15:02:48.555734728Z"
+    created: "2021-01-08T11:44:07.49670688Z"
     description: Chaos Mesh® is a cloud-native Chaos Engineering platform that orchestrates
       chaos on Kubernetes environments.
     digest: 1c202009bd88d71c11c3136edca32108fd3335e784f3fe81d5d7a4e128834a11
@@ -103,7 +123,7 @@ entries:
     version: v0.2.1
   - apiVersion: v1
     appVersion: v0.9.0
-    created: "2020-12-16T15:02:48.554260817Z"
+    created: "2021-01-08T11:44:07.495419864Z"
     description: Chaos Mesh® is a cloud-native Chaos Engineering platform that orchestrates
       chaos on Kubernetes environments.
     digest: cb9e837dcb74783df8c0e342ecd5c21911e7e245dfd956c5512b74c15eea7361
@@ -123,7 +143,7 @@ entries:
     version: v0.2.0
   - apiVersion: v1
     appVersion: v1.0.0
-    created: "2020-12-16T15:02:48.551378896Z"
+    created: "2021-01-08T11:44:07.494078347Z"
     description: Chaos Mesh® is a cloud-native Chaos Engineering platform that orchestrates
       chaos on Kubernetes environments.
     digest: 9a2e8afc3b9b1be21e04f0419c1648ec6fda4ab229c6cc957e17d789f2b42e66
@@ -143,7 +163,7 @@ entries:
     version: v0.1.1
   - apiVersion: v1
     appVersion: v1.0.0
-    created: "2020-12-16T15:02:48.548850178Z"
+    created: "2021-01-08T11:44:07.49267793Z"
     description: Chaos Mesh® is a cloud-native Chaos Engineering platform that orchestrates
       chaos on Kubernetes environments.
     digest: 9cf1a3b8226165aa480d6b6dc23c049d13f795f2135bd325703594a4cf97851f
@@ -161,4 +181,4 @@ entries:
     urls:
     - https://charts.chaos-mesh.org/chaos-mesh-v0.1.0.tgz
     version: v0.1.0
-generated: "2020-12-16T15:02:48.547163365Z"
+generated: "2021-01-08T11:44:07.489376589Z"
