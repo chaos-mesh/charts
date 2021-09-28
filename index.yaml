@@ -23,10 +23,10 @@ entries:
     version: v2.0.2
   - apiVersion: v2
     appVersion: v2.0.1
-    created: "2021-09-28T15:40:11.969702457Z"
+    created: "2021-08-26T10:50:13.290939534Z"
     description: Chaos Mesh® is a cloud-native Chaos Engineering platform that orchestrates
       chaos on Kubernetes environments.
-    digest: a94bce500947a2a2093c802571194b14706c1d39a954c6a55ff14f7d66b94c83
+    digest: 0f677d0de19fbf0bf013c4d17daa342869dab6710dce92bdc04e5cb87ca8c59b
     home: https://chaos-mesh.org
     icon: https://raw.githubusercontent.com/pingcap/chaos-mesh/master/static/logo.svg
     keywords:
