@@ -13,7 +13,7 @@
 # The ID of the Artifact Hub repository where the packages will be published to (optional, but it enables verified publisher)
 # see: https://artifacthub.io/docs/topics/repositories/#verified-publisher
 # TODO: update if after we get the ID.
-repositoryID: ""
+repositoryID: "1ac684e9-a72e-4750-bdf7-4326554e5667"
 # optional, used to claim repository ownership
 # see: https://artifacthub.io/docs/topics/repositories/#ownership-claim
 owners:
