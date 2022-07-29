@@ -9,10 +9,10 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 2.3.0
-    created: "2022-07-29T09:14:47.160725641Z"
+    created: "2022-07-29T10:03:01.749907722Z"
     description: Chaos Mesh is a cloud-native Chaos Engineering platform that orchestrates
       chaos on Kubernetes environments.
-    digest: a856f452bf8b51421767b140ed921255974405c8852289acf1dc2dc77c41bc4d
+    digest: 81166e53865441aa061a5595d80339550e930be0b8e5526447b5c194f9cf4d14
     home: https://chaos-mesh.org
     icon: https://raw.githubusercontent.com/pingcap/chaos-mesh/master/static/logo.svg
     keywords:
@@ -1082,4 +1082,4 @@ entries:
     urls:
     - https://charts.chaos-mesh.org/chaos-mesh-v0.1.0.tgz
     version: v0.1.0
-generated: "2022-07-29T09:14:47.145211966Z"
+generated: "2022-07-29T10:03:01.732391833Z"
