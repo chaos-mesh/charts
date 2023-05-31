@@ -6,6 +6,43 @@ entries:
       artifacthub.io/license: Apache-2.0
       artifacthub.io/operator: "true"
       artifacthub.io/operatorCapabilities: Seamless Upgrades
+      artifacthub.io/prerelease: "true"
+    apiVersion: v2
+    appVersion: 2.6.0
+    created: "2023-05-31T03:24:46.967614984Z"
+    description: Chaos Mesh is a cloud-native Chaos Engineering platform that orchestrates
+      chaos on Kubernetes environments.
+    digest: ff18a0f24c1b953ccb0765725bd6a9329336ba2c9d6d2fe5c76bc0f9fb38063b
+    home: https://chaos-mesh.org
+    icon: https://raw.githubusercontent.com/chaos-mesh/chaos-mesh/master/static/logo.svg
+    keywords:
+    - chaos-engineering
+    - resiliency
+    - fault-injection
+    - kubernetes
+    - testing
+    maintainers:
+    - email: cwen@pingcap.com
+      name: cwen0
+    - email: yangkeao@chunibyo.icu
+      name: YangKeao
+    - email: wenghao@pingcap.com
+      name: dcalvin
+    - email: yb532204897@gmail.com
+      name: yeya24
+    - email: tttick@gmail.com
+      name: Gallardot
+    name: chaos-mesh
+    sources:
+    - https://github.com/chaos-mesh/chaos-mesh
+    urls:
+    - https://charts.chaos-mesh.org/chaos-mesh-2.6.0.tgz
+    version: 2.6.0
+  - annotations:
+      artifacthub.io/containsSecurityUpdates: "false"
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/operator: "true"
+      artifacthub.io/operatorCapabilities: Seamless Upgrades
       artifacthub.io/prerelease: "false"
     apiVersion: v2
     appVersion: 2.5.2
@@ -1640,4 +1677,4 @@ entries:
     urls:
     - https://charts.chaos-mesh.org/chaos-mesh-v0.1.0.tgz
     version: v0.1.0
-generated: "2023-04-13T08:35:11.857875664Z"
+generated: "2023-05-31T03:24:46.951657487Z"
